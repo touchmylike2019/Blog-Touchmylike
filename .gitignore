@@ -9,4 +9,3 @@ phpunit.xml
 .vagrant
 Vagrantfile
 .php_cs.cache
-composer.lock
