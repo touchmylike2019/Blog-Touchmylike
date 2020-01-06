@@ -3,7 +3,6 @@
 /.project
 /.buildpath
 /composer.phar
-/vendor
 /nbproject
 phpunit.xml
 .vagrant
