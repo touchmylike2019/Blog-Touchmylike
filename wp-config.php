@@ -1,7 +1,7 @@
 <?php
-require('vendor/autoload.php');
-$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
-$dotenv->load();
+require('./vendor/autoload.php');
+// $dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
+// $dotenv->load();
 
 // ** MySQL settings - You can get this info from your web host ** //
 define( 'DB_NAME', getenv('DB_NAME'));
